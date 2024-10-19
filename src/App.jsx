@@ -1,5 +1,7 @@
 
 import './App.css'
+import MyButton from './Components/MyButton'
+import Profile from './Components/Profile'
 
 function App() {
  
@@ -7,6 +9,9 @@ function App() {
     <>
      
       <h1>React Official Documentation Practice</h1>
+      <MyButton/>
+      
+      <Profile/>
       
      
     </>
